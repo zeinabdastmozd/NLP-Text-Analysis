@@ -1,3 +1,4 @@
+![Car Review](car-review.jpeg)
 # 🧠 Practical Text Analytics: Automotive Review Sentiment Classification
 
 ### CE807 – Practical Text Analytics | University of Essex
