@@ -1,5 +1,5 @@
-![Car Review](car-review.jpeg)
 # 🧠 Practical Text Analytics: Automotive Review Sentiment Classification
+![Car Review](car-review.jpeg)
 
 ### Practical Text Analytics
 
