@@ -1,15 +1,13 @@
 ![Car Review](car-review.jpeg)
 # 🧠 Practical Text Analytics: Automotive Review Sentiment Classification
 
-### CE807 – Practical Text Analytics | University of Essex
+### Practical Text Analytics
 
 A Natural Language Processing (NLP) project for classifying sentiment in automotive product reviews using **unsupervised** and **discriminative** machine learning approaches.
 
 ---
 
 ## 📌 Project Overview
-
-This project was completed as part of **CE807 – Practical Text Analytics** at the **University of Essex**.
 
 The project investigates **sentiment classification of automotive reviews from an e-commerce dataset**. The aim is to develop and evaluate two different approaches for identifying whether a review expresses positive or negative sentiment.
 
@@ -101,7 +99,7 @@ The overall workflow can be summarised as:
 ```
 # 📊 Dataset
 
-The project uses the **provided automotive review dataset** supplied for the CE807 assignment.
+The project uses the **Automotive review dataset**.
 
 The dataset is divided into three components:
 
@@ -199,8 +197,6 @@ Depending on the experiments, these can include:
 
 The evaluation is used to compare the unsupervised and discriminative approaches and understand where each model performs well or poorly.
 
-> **Note:** The numerical results reported in this repository are based on the experiments conducted for the project. No performance values are stated here unless they are directly supported by the experimental results.
-
 ---
 
 # 🔎 Error Analysis
@@ -270,7 +266,7 @@ Contains the dataset used for the NLP experiments.
 
 ### 📓 `notebooks/`
 
-Contains the Jupyter/Google Colab notebooks used for NLP analysis, preprocessing, experimentation, and model development.
+Contains the Jupyter notebooks used for NLP analysis, preprocessing, experimentation, and model development.
 
 ### 📄 `report/`
 
@@ -328,8 +324,6 @@ The project produces outputs associated with:
 - **Error analysis**
 - **Final test predictions**
 
-The final test predictions follow the required output structure for the **CE807 assessment**.
-
 ---
 
 # 💡 Key Learning Outcomes
@@ -350,13 +344,6 @@ This project provided practical experience in:
 ---
 
 # 🎓 Academic Context
-
-This project was completed as part of:
-
-**CE807 – Practical Text Analytics**
-
-**School of Computer Science and Electronic Engineering**  
-**University of Essex**
 
 The project was designed to provide practical experience in developing, evaluating, and scientifically analysing text classification systems.
 
@@ -379,11 +366,6 @@ Analysis        Learning
             ▼
       Text Classification
 ```
-# ⚠️ Academic Note
-
-This repository represents an academic project completed as part of university study.
-
-Any datasets, external resources, libraries, algorithms, or code adapted from external sources should be appropriately acknowledged according to the relevant academic and licensing requirements.
 
 # 👩‍💻 Author
 
